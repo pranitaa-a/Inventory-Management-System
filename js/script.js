@@ -1,3 +1,4 @@
+
 var sideBarIsOpen = true;
 	
     toggleBtn.addEventListener( 'click', (event) => {

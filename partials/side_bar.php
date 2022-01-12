@@ -12,7 +12,7 @@
 					    <a href="./dashboard.php"><i class="fa fa-dashboard"></i> <span class="menuText">Dashboard</span></a>
 					</li>
 					<li>
-					    <a href="./users_add.php"><i class="fa fa-user-plus"></i> <span class="menuText">Add User</span></a>
+					    <a href="./user_add.php"><i class="fa fa-user-plus"></i> <span class="menuText">Add User</span></a>
 					</li>
 					
 				</ul>
